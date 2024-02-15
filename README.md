@@ -14,8 +14,8 @@ Dr. Mukesh Mann
 
 Developed By:
 
-Amar Nath Prajapati (12011051, IIIT Sonepat)
-Mohd Aqib (12011004, IIIT Sonepat)
+1. Amar Nath Prajapati (12011051, IIIT Sonepat)
+2. Mohd Aqib (12011004, IIIT Sonepat)
 
 Installation
 1. Ensure Python is installed on your computer. Download Python from the [official website](https://www.python.org/downloads/).
