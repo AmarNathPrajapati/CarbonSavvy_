@@ -6,6 +6,17 @@ CarbonSavvy is a machine learning-based project dedicated to fostering sustainab
 Keywords:
 CO2 emissions, Green Cities, Economic Growth, Foresting, Sustainable Energy, Machine Learning, Industry Structure, Forecasting
 
+Guidance:
+
+Under the Guidance of: 
+Dr. Mukesh Mann 
+(Assistant professor IIIT Sonepat)
+
+Developed By:
+
+Amar Nath Prajapati (12011051, IIIT Sonepat)
+Mohd Aqib (12011004, IIIT Sonepat)
+
 Installation
 1. Ensure Python is installed on your computer. Download Python from the [official website](https://www.python.org/downloads/).
 2. Clone the project using the following command:  
