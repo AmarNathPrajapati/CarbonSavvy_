@@ -132,7 +132,7 @@ def predict():
     db.session.add(entry)
     db.session.commit()
     
-    cur = 20.679
+    cur = 21.146
     predictedData = [mean1, mean2, mean3, mean4, mean5, mean6, mean7, mean8, mean9, mean10, mean11, mean12, mean13, pred];
     currentData = [3.613524, 11.363636, 11.136779, 0.069170, 0.554695, 6.284289, 68.574901, 3.795043, 9.549407, 408.237154, 18.455534, 356.674032, 12.653063, cur];
     
